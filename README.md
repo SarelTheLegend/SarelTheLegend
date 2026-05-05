@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58D3F7&center=true&vCenter=true&random=false&width=600&lines=Building+AI-powered+systems+%F0%9F%A4%96;Automating+the+future+%E2%9A%A1;Full-Stack+%26+AI+Workflow+Architect+%F0%9F%94%A7;Turning+ideas+into+intelligent+solutions+%F0%9F%92%A1;Legendary+by+name%2C+legendary+by+code+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SarelTheLegend&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+</p>
+
 ---
 
 ## 🌟 About Me
@@ -56,13 +60,13 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarelTheLegend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SarelTheLegend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarelTheLegend&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarelTheLegend&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SarelTheLegend&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SarelTheLegend&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -104,10 +108,6 @@ me.say_hi()
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SarelTheLegend&icon=6&color=6" alt="Profile Views"/>
-  <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
