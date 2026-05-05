@@ -42,6 +42,7 @@ me.say_hi()
 ### 🤖 AI & Intelligence
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google AntiGravity](https://img.shields.io/badge/Google_AntiGravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=replit&logoColor=white)
 
 > *The goal isn't to automate everything — just everything boring.*
@@ -74,7 +75,6 @@ me.say_hi()
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-FF6600?style=for-the-badge&logo=printables&logoColor=white)
 ![Sound Engineering](https://img.shields.io/badge/Sound_Engineering-1DB954?style=for-the-badge&logo=audiotechnica&logoColor=white)
-![Google AntiGravity](https://img.shields.io/badge/Google_AntiGravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
