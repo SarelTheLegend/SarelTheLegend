@@ -20,6 +20,7 @@ class SarelRoos:
         self.languages   = ["Python", "Delphi", "HTML5"]
         self.passions    = ["AI Workflows", "Automation", "Smart Systems"]
         self.focus       = "Building AI-powered applications & intelligent workflows"
+        self.ai_usage    = "pair programming with a very fast intern"
 
     def say_hi(self):
         print("Thanks for dropping by — let's build something legendary. 🚀")
@@ -50,6 +51,8 @@ me.say_hi()
 
 ### 🤖 AI & Intelligence
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+> *Load-shedding taught me more about async programming than any tutorial.*
 
 ---
 
