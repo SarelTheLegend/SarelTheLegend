@@ -52,7 +52,7 @@ me.say_hi()
 ### 🤖 AI & Intelligence
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-> *Load-shedding taught me more about async programming than any tutorial.*
+> *The goal isn't to automate everything — just everything boring.*
 
 ---
 
