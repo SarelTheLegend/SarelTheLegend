@@ -41,7 +41,7 @@ me.say_hi()
 
 ### 🤖 AI & Intelligence
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT - Codex](https://img.shields.io/badge/ChatGPT--Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT - Codex](https://img.shields.io/badge/ChatGPT--Codex-000000?style=for-the-badge&logo=chatgpt&logoColor=white)
 ![Google AntiGravity](https://img.shields.io/badge/Google_AntiGravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=replit&logoColor=white)
 
