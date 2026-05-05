@@ -66,6 +66,9 @@ me.say_hi()
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172BF4?style=for-the-badge&logo=confluence&logoColor=white)
 
+### 🔐 Interests
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
