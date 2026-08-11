@@ -82,12 +82,12 @@ me.say_hi()
 
 Things with nothing to do with the day job, and occasionally everything to do with it.
 
-- **Sound engineering** : Live Full Band Mixing, and far too many opinions about monitors
-- **3D printing & CAD** : Fusion 360 to printer bed, mostly parts for other projects
-- **Video editing** : DaVinci Resolve
-- **Cybersecurity** : the hobby that makes me distrust every default setting
-- **Home automation** : ESP32 and ESP8266 boards running MicroPython, Node-RED flows, all wired into Home Assistant and held together by stubbornness
-- **Raspberry Pi** : a drawer of them, each permanently reassigned to some new job
+- **Sound engineering** : live mixing, studio work, and strong feelings about gain staging &nbsp;![Sound Engineering](https://img.shields.io/badge/Sound_Engineering-1DB954?style=for-the-badge&logo=audiotechnica&logoColor=white)
+- **3D printing & CAD** : from sketch to printer bed, mostly parts for other projects &nbsp;![3D Printing](https://img.shields.io/badge/3D_Printing-FF6600?style=for-the-badge&logo=printables&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
+- **Video editing** : cutting, grading, and pretending the timeline is organised &nbsp;![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
+- **Cybersecurity** : the hobby that makes me distrust every default setting &nbsp;![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+- **Home automation** : boards, flows and dashboards held together by stubbornness &nbsp;![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=home-assistant&logoColor=white)
+- **Raspberry Pi** : a drawer of them, each permanently reassigned to some new job &nbsp;![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 - **Linux ricing** : KDE Plasma, permanently 90% finished
 - **Vector art** : redrawing logos in SVG until the curves behave
 
