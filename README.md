@@ -82,7 +82,7 @@ me.say_hi()
 
 Things with nothing to do with the day job, and occasionally everything to do with it.
 
-- **Sound engineering** : live mixing, studio work, and far too many opinions about monitors
+- **Sound engineering** : Live Full Band Mixing, and far too many opinions about monitors
 - **3D printing & CAD** : Fusion 360 to printer bed, mostly parts for other projects
 - **Video editing** : DaVinci Resolve
 - **Cybersecurity** : the hobby that makes me distrust every default setting
