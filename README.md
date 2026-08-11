@@ -8,7 +8,7 @@
 
 ---
 
-## About Me
+## 🌟 About Me
 
 ```python
 class SarelRoos:
@@ -87,35 +87,15 @@ Things with nothing to do with the day job, and occasionally everything to do wi
 - **Video editing** : cutting, grading, and pretending the timeline is organised &nbsp;![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
 - **Cybersecurity** : the hobby that makes me distrust every default setting &nbsp;![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 - **Home automation** : boards, flows and dashboards held together by stubbornness &nbsp;![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=home-assistant&logoColor=white)
-- **Raspberry Pi** : credit card sized, and doing work far above its pay grade &nbsp;![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+- **Raspberry Pi** : a drawer of them, each permanently reassigned to some new job &nbsp;![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 - **Linux ricing** : KDE Plasma, permanently 90% finished
 - **Vector art** : redrawing logos in SVG until the curves behave
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SarelTheLegend&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SarelTheLegend&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
-</div>
 
 ---
 
 ## 🤝 Connect
 
 <div align="center">
-  <a href="mailto:sroos@iqbusiness.net">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
   <a href="https://github.com/Atster10">
     <img src="https://img.shields.io/badge/Personal_GitHub_(the_messy_one)-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub"/>
   </a>
