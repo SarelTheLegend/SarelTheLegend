@@ -87,7 +87,7 @@ Things with nothing to do with the day job, and occasionally everything to do wi
 - **Video editing** : cutting, grading, and pretending the timeline is organised &nbsp;![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
 - **Cybersecurity** : the hobby that makes me distrust every default setting &nbsp;![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 - **Home automation** : boards, flows and dashboards held together by stubbornness &nbsp;![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=home-assistant&logoColor=white)
-- **Raspberry Pi** : a drawer of them, each permanently reassigned to some new job &nbsp;![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+- **Raspberry Pi** : credit card sized, and doing work far above its pay grade &nbsp;![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 - **Linux ricing** : KDE Plasma, permanently 90% finished
 - **Vector art** : redrawing logos in SVG until the curves behave
 
