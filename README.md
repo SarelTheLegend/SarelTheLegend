@@ -92,6 +92,19 @@ me.say_hi()
 
 ---
 
+## 🎛️ Off the Clock
+
+Things with nothing to do with the day job, and occasionally everything to do with it.
+
+- **Sound engineering** : live mixing, studio work, and far too many opinions about monitors
+- **3D printing & CAD** : Fusion 360 to printer bed, mostly parts for other projects
+- **Video editing** : DaVinci Resolve
+- **Home automation** : ESP32 boards and Node-RED flows wired into Home Assistant, held together by stubbornness
+- **Linux ricing** : KDE Plasma, permanently 90% finished
+- **Vector art** : redrawing logos in SVG until the curves behave
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
