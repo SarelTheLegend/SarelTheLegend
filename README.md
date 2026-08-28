@@ -30,6 +30,7 @@ me.say_hi()
 ```
 
 ---
+NEXT GEN DEVELOPER
 
 ## 🛠️ Tech Stack
 
